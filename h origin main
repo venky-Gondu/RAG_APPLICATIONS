@@ -1,0 +1,42 @@
+[33mcommit 7443fca11c2cd77e6428087617ef559d4c8d0269[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: venky <venkatesh.21mis7170@vitapstudent.ac.in>
+Date:   Thu Sep 26 21:36:53 2024 +0530
+
+    simple rag
+
+[33mcommit 00fd05b9ef903dfabf6eea499924b9b511f79dc5[m
+Author: venky <venkatesh.21mis7170@vitapstudent.ac.in>
+Date:   Thu Sep 26 12:53:43 2024 +0530
+
+    .env removel
+
+[33mcommit c03078e2ce5948485002242113c0b9835afba9d2[m
+Author: venky <venkatesh.21mis7170@vitapstudent.ac.in>
+Date:   Thu Sep 26 12:50:30 2024 +0530
+
+    Api intercations with Local LLM and vector Embeding search uusing Opensource Embedding techniques
+
+[33mcommit 0cd88d37fc88f17288b16e839bee2faeda87aed3[m
+Author: venky <venkatesh.21mis7170@vitapstudent.ac.in>
+Date:   Thu Sep 26 12:46:06 2024 +0530
+
+    Added .gitignore file and removed .gitignore.txt
+
+[33mcommit 52205f67afb00f04559b270493bc8e995d2f1cb5[m
+Merge: 5adcef3 25d3cd2
+Author: venky <venkatesh.21mis7170@vitapstudent.ac.in>
+Date:   Thu Sep 26 12:30:19 2024 +0530
+
+    Merge branch 'main' of https://github.com/venky-Gondu/RAG_APPLICATIONS
+
+[33mcommit 5adcef38fbf3394cd4c4c48e4c23d67805a61518[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: venky <venkatesh.21mis7170@vitapstudent.ac.in>
+Date:   Thu Sep 26 12:14:03 2024 +0530
+
+    enevironment is added
+
+[33mcommit 25d3cd2bbdfb64dde419a7e330c58d146124a398[m
+Author: venky <104708734+venky-Gondu@users.noreply.github.com>
+Date:   Thu Sep 26 11:21:22 2024 +0530
+
+    Initial commit
