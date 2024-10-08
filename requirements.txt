@@ -18,7 +18,8 @@ torch
 
 transformers==4.20.1
 sentencepiece
+arxiv
+wikipedia
+langchainhub
 
-
-
-
+#wikipedia
