@@ -38,7 +38,7 @@ llm = Ollama(model="gemma2:2b")
 tools = load_tools(["wikipedia", "arxiv"])
 
 # Load internal documents
-loader = PyPDFLoader("Attention all you need.pdf")  # Modify path as needed
+loader = PyPDFLoader(r"K:\RAG Application\QAchatbot\Attention all you need.pdf")  # Modify path as needed
 documents = loader.load()
 
 # Create embeddings and vector store
