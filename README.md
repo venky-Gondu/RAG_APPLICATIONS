@@ -3,19 +3,8 @@
 </p>
 <p align="center"><h1 align="center">RAG_APPLICATIONS</h1></p>
 <p align="center">
-	<em><code> Overview of the Q/A Chat Application using RAG Pipeline
-In this project, I developed a Question-Answering Chat Application leveraging the Retrieval-Augmented Generation (RAG) pipeline to enhance response accuracy and relevance. The application integrates LangChain, vector databases like ChromaDB and FAISS, and open-source LLMs to efficiently retrieve and generate contextual responses.
-
-Key Features:
-RAG Pipeline: Combines retrieval-based search with generative AI to provide factually grounded answers.
-Vector Search with FAISS & ChromaDB: Efficient similarity search and context retrieval from large datasets.
-LangChain Integration: Seamless orchestration of document retrieval, query processing, and response generation.
-Open-Source LLMs: Utilizes pre-trained models for generating high-quality, context-aware responses.
-Scalability & Performance: Optimized for handling diverse queries across various knowledge domains.
-Impact & Future Enhancements:
-Improved accuracy in answering domain-specific questions.
-Potential integration with real-time knowledge sources for dynamic updates.
-Enhancement with multi-modal retrieval (text, images, and structured data).</code></em>
+	<em>>ReadMe<code> 
+</code></em>
 </p>
 <p align="center">
 	<img src="https://img.shields.io/github/license/venky-Gondu/RAG_APPLICATIONS?style=default&logo=opensourceinitiative&logoColor=white&color=0080ff" alt="license">
@@ -50,13 +39,23 @@ Enhancement with multi-modal retrieval (text, images, and structured data).</cod
 
 ## 📍 Overview
 
-<code>❯ REPLACE-ME</code>
+<code>❯ Overview of the Q/A Chat Application using RAG Pipeline
+In this project, I developed a Question-Answering Chat Application leveraging the Retrieval-Augmented Generation (RAG) pipeline to enhance response accuracy and relevance. The application integrates LangChain, vector databases like ChromaDB and FAISS, and open-source LLMs to efficiently retrieve and generate contextual responses.</code>
 
 ---
 
 ## 👾 Features
 
-<code>❯ REPLACE-ME</code>
+<code>❯ Key Features:
+RAG Pipeline: Combines retrieval-based search with generative AI to provide factually grounded answers.
+Vector Search with FAISS & ChromaDB: Efficient similarity search and context retrieval from large datasets.
+LangChain Integration: Seamless orchestration of document retrieval, query processing, and response generation.
+Open-Source LLMs: Utilizes pre-trained models for generating high-quality, context-aware responses.
+Scalability & Performance: Optimized for handling diverse queries across various knowledge domains.
+Impact & Future Enhancements:
+Improved accuracy in answering domain-specific questions.
+Potential integration with real-time knowledge sources for dynamic updates.
+Enhancement with multi-modal retrieval (text, images, and structured data).</code>
 
 ---
 
